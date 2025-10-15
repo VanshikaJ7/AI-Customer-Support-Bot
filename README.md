@@ -14,7 +14,7 @@ An intelligent customer support chatbot powered by Groq's LLM (Llama 3.1) that p
 
 ## 🎥 Demo Video
 
-<video src="https://drive.google.com/uc?export=download&id=11eg2MeAqw3H3IiO8TqXckthUah3wOSop" controls width="600"></video>
+🎬 [Watch the Demo Video](https://drive.google.com/file/d/11eg2MeAqw3H3IiO8TqXckthUah3wOSop/view?usp=sharing)
 
 ## 🏗️ Architecture
 
