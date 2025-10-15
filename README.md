@@ -12,10 +12,6 @@ An intelligent customer support chatbot powered by Groq's LLM (Llama 3.1) that p
 - **Modern UI**: Beautiful, responsive chat interface built with React
 - **Real-time Interaction**: Instant responses with typing indicators
 
-## 🎥 Demo Video
-
-<video src="https://github.com/VanshikaJ7/AI-Customer-Support-Chat-Bot/raw/main/demovid.mp4" controls width="600"></video>
-
 
 ## 🏗️ Architecture
 
