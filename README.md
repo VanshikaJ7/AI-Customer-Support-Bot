@@ -13,7 +13,7 @@ An intelligent customer support chatbot powered by Groq's LLM (Llama 3.1) that p
 - **Real-time Interaction**: Instant responses with typing indicators
 
 ## 🎥 Demo Video
-
+[▶️ Click to watch the demo video](https://github.com/VanshikaJ7/AI-Customer-Support-Chat-Bot/raw/main/demovid.mp4)
 
 ## 🏗️ Architecture
 
