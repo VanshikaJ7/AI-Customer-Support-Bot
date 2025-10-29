@@ -69,8 +69,8 @@ Before you begin, ensure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-customer-support-bot.git
-cd ai-customer-support-bot
+git clone https://github.com/VanshikaJ7/AI-Customer-Support-Bot.git
+cd AI-Customer-Support-Bot
 ```
 
 ### 2. Backend Setup
